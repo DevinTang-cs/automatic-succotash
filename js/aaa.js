@@ -7,3 +7,5 @@ console.log('component')
 console.log(1)
 
 console.log("testing1")
+
+console.log("t2")
